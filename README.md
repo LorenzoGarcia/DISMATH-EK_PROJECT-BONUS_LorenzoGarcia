@@ -2,11 +2,11 @@
 
 screenshots...
 
-![SC1](Screenshot1.jpg)
-![SC2](Screenshot2.jpg)
-![SC3](Screenshot3.jpg)
-![SC4](Screenshot4.jpg)
-![SC5](Screenshot5.jpg)
+![Screenshot1](Screenshot1.jpg)
+![Screenshot2](Screenshot2.jpg)
+![Screenshot3](Screenshot3.jpg)
+![Screenshot4](Screenshot4.jpg)
+![Screenshot5](Screenshot5.jpg)
 
 
 Garcia, Lorenzo C.
